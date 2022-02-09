@@ -1,0 +1,7 @@
+BCIymBestComment.xcodeproj/xcuserdata/
+BCIymBestComment.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+BCIymBestComment.xcodeproj/project.xcworkspace/xcuserdata/
